@@ -1,4 +1,4 @@
-# EX-10 Name: DINESH KUMAR A (212223060057)
+# EX-06 Name: DINESH KUMAR A (212223060057)
 # Write a QPSK program using Python.
 # Aim
 Write a Python program for the modulation and demodulation of QPSK.
